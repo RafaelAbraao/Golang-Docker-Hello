@@ -1,6 +1,6 @@
 # Golang-Docker-Hello
 
-## Desafio Docker do curso Full Cycle Developer
+## Desafio Docker - curso Full Cycle Developer
 
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 Você terá que publicar uma imagem no docker hub. Quando executarmos:
