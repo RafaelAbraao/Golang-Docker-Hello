@@ -19,14 +19,16 @@ Divirta-se
   
 ## Build
   
-docker build -t <user>/codeeducation .
+docker build -t <seu-user>/codeeducation .
   
 ## Image
   
 docker images
-rafaelabraao/codeeducation        latest    **1.76MB**
+
+  rafaelabraao/codeeducation        latest    **1.76MB**
 
 ## Run
 
 docker run --name desagioCodeEducation rafaelabraao/codeeducation
-**Code.education Rocks!**
+
+  **Code.education Rocks!**
