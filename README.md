@@ -23,13 +23,13 @@ docker build -t <seu-user>/codeeducation .
 ```
   
 ## Image
-  
+```  
 docker images
-
+```
   rafaelabraao/codeeducation        latest    **1.76MB**
 
 ## Run
-
+```
 docker run --name desagioCodeEducation rafaelabraao/codeeducation
-
+```
   **Code.education Rocks!**
